@@ -1,6 +1,4 @@
-package TwoSumII_sortedArray;
-
-import java.util.ArrayList;
+package TwoPointers.TwoSumII_sortedArray;
 
 public class testCase {
     public static void main(String[] args){

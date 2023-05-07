@@ -1,4 +1,4 @@
-package ValidPalindrome;
+package TwoPointers.ValidPalindrome;
 
 class Solution {
     public boolean isPalindrome(String s) {

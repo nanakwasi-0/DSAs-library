@@ -1,4 +1,4 @@
-package ValidPalindrome;
+package TwoPointers.ValidPalindrome;
 
 public class testCase{
     public static void main(String[] args){

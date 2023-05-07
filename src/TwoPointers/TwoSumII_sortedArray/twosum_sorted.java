@@ -1,4 +1,4 @@
-package TwoSumII_sortedArray;
+package TwoPointers.TwoSumII_sortedArray;
 
 
     class Solution {
