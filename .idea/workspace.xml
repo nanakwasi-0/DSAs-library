@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06455fbd-c950-4c4d-97a5-bf947e8613b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SlidingWindow/BestTimetoBuyOrSellStock/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SlidingWindow/BestTimetoBuyOrSellStock/testcase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSumII_sortedArray/testCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/TwoSumII_sortedArray/testCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSumII_sortedArray/twosum_sorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/TwoSumII_sortedArray/twosum_sorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidPalindrome/testCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/ValidPalindrome/testCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidPalindrome/valid_palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/ValidPalindrome/valid_palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +52,20 @@
       <recent name="C:\Users\Razer Blade\IdeaProjects\DataStructures-library\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tries.TwoPointers.TwoSumII_sortedArray.testCase">
+  <component name="RunManager" selected="Application.SlidingWindow.BestTimetoBuyOrSellStock.testcase">
+    <configuration name="SlidingWindow.BestTimetoBuyOrSellStock.testcase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlidingWindow.BestTimetoBuyOrSellStock.testcase" />
+      <module name="DataStructures-library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SlidingWindow.BestTimetoBuyOrSellStock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tries.TwoPointers.TwoSumII_sortedArray.testCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tries.TwoPointers.TwoSumII_sortedArray.testCase" />
       <module name="DataStructures-library" />
@@ -98,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SlidingWindow.BestTimetoBuyOrSellStock.testcase" />
         <item itemvalue="Application.Tries.TwoPointers.TwoSumII_sortedArray.testCase" />
         <item itemvalue="Application.testCase" />
         <item itemvalue="Application.testcase" />
@@ -115,7 +125,7 @@
       <workItem from="1683294252232" duration="5737000" />
       <workItem from="1683309048269" duration="46000" />
       <workItem from="1683309106584" duration="1054000" />
-      <workItem from="1683466131721" duration="3328000" />
+      <workItem from="1683466131721" duration="5545000" />
     </task>
     <servers />
   </component>
